@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shubhangvigya&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=shubhangVigya.shubhangVigya&left_text=Profile%20views&left_color=%23555&right_color=%230e75b6" alt="Profile views" />
 </p>
 
 ---
